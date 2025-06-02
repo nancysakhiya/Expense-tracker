@@ -47,3 +47,9 @@ Ensure your CSV file includes these columns:
 | `Amount`       | Transaction amount (e.g., 1,000.50)|
 | `Debit/Credit` | Must be either `Debit` or `Credit` |
 
+## 🛠️ Technologies Used
+
+- **Streamlit** – Web interface
+- **Pandas** – Data processing
+- **Plotly** – Visualizations
+- **JSON** – Persistent storage for categories
